@@ -55,6 +55,3 @@ list_NFTs(laptop_nft)
 console.log(get_Total_Supply(nft))
 ```
 
-Thank You 
-
-created with ❤️
